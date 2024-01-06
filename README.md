@@ -12,4 +12,4 @@ The image belows shows what the horiseon website looks refactored.
 
 ## link
 
-
+The live URL for Horiseon refactored website: https://adellemaeocampo.github.io/horiseon-refactoring-project/
