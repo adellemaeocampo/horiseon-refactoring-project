@@ -6,7 +6,7 @@ In this project we were given a website to refactor to emphasis accessiblity and
 
 ## Usage
 
-    - The image belows shows what the horiseon website looks refactored.
+The image belows shows what the horiseon website looks refactored.
 
 ![horiseon website refactored](images-copy/horiseon-mockup.png)
 
